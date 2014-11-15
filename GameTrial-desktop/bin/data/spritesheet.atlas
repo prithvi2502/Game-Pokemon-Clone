@@ -1,0 +1,13 @@
+Characters.png 
+format: RGBA8888 
+filter: Nearest,Nearest 
+repeat: none 
+0001 
+  rotate: false 
+  xy: 1, 651 
+  size: 18, 27 
+  orig: 18, 27 
+  offset: 0, 0 
+  index: -1 
+0002 
+  rotate: false

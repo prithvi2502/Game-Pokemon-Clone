@@ -1,0 +1,95 @@
+# Blender MTL File: 'None'
+# Material Count: 9
+
+newmtl Black_Wool
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.007215 0.006429 0.006429
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ArmoredTank-RGB.png
+
+newmtl Cobblestone
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.027472 0.251191 0.566701
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ArmoredTank-RGB.png
+
+newmtl Double_Stone_Slab
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.633038 0.166910 0.012797
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ArmoredTank-RGB.png
+
+newmtl Glass
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.602353 0.771765 0.796862
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd ArmoredTank-RGBA.png
+map_d ArmoredTank-Alpha.png
+
+newmtl Iron_Bars
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.511373 0.514510 0.514510
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd ArmoredTank-RGBA.png
+map_d ArmoredTank-Alpha.png
+
+newmtl Iron_Block
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.521125 0.070924 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ArmoredTank-RGB.png
+
+newmtl Light_Gray_Wool
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.492549 0.514510 0.514510
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ArmoredTank-RGB.png
+
+newmtl Redstone_Torch_(on)
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.793726 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd ArmoredTank-RGBA.png
+map_d ArmoredTank-Alpha.png
+
+newmtl Slab
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.639282 0.057817 0.036149
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd ArmoredTank-RGB.png
